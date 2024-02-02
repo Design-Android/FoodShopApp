@@ -1,5 +1,5 @@
 # Screenshots
 
-### Main
+### Main Menu
 
-![Main](https://github.com/Design-Android/FoodShopApp/screenshots/main.png)
+![Main Menu](https://raw.githubusercontent.com/Design-Android/FoodShopApp/master/screenshots/main.png)
